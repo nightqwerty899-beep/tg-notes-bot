@@ -1,0 +1,5 @@
+build/
+.env
+notes.db
+*.o
+*.a
